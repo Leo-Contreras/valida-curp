@@ -8,6 +8,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var curpRouter = require('./routes/curp'); // Añade esta línea
 
+
 var app = express();
 
 
